@@ -1,0 +1,2 @@
+28993fd4395f537a6552a9791b79313b007dd595
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/javassist/HikariClassScanner.java

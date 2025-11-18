@@ -1,0 +1,5 @@
+cc736bb3460e25bb929b1ab79fc9163a6fdb1a48
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/metrics/CodaHaleMetricsTracker.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/metrics/CodaHaleShim.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/metrics/CodaHaleMetricsTracker.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/metrics/CodaHaleShim.java

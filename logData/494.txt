@@ -1,0 +1,5 @@
+53287cd101aeaf1aa282f5619de16a32ae3c5dfd
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/Mediator.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolEntry.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/ConnectionState.java

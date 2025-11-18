@@ -1,0 +1,5 @@
+8c509f383700eb863bd09880d4f519852463dc66
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolBase.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolEntry.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/ProxyConnection.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/ProxyFactory.java

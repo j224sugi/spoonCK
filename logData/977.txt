@@ -1,0 +1,11 @@
+00b77f9cd3853848a0854560847f0f5c9953e700
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/pool/HikariPool.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/IHikariConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/LeakTask.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/ProxyFactory.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/pool/HikariPool.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/IHikariConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/LeakTask.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/ProxyFactory.java

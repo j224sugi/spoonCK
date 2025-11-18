@@ -1,0 +1,6 @@
+b000fc23a5e6f5ac717a03522658a2e793f784fa
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/IHikariConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/IHikariConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/PreparedStatementProxy.java

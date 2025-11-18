@@ -1,0 +1,2 @@
+fc08920d6f08d01ccde5562de93e837d728c1d92
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/JavassistProxyFactoryFactory.java

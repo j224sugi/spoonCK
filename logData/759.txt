@@ -1,0 +1,4 @@
+66b64153e1c501bc95ea95de335510e096b709a9
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/AbstractHikariConfig.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/metrics/CodahaleHealthChecker.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/pool/BaseHikariPool.java

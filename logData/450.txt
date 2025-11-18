@@ -1,0 +1,3 @@
+216b3c0ac468a421c8fcff431383ace60f196940
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolBase.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/ProxyConnection.java

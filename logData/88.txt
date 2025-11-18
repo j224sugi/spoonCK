@@ -1,0 +1,2 @@
+8217f2082d884f878c8d245dae19ca28dce5577d
+C:/Users/syuuj/HikariCP/src/main/java11/module-info.java

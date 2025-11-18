@@ -1,0 +1,4 @@
+abadd6723a242c4ac3091322078981a295f4372c
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/JavassistProxyFactoryFactory.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/PreparedStatementProxy.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/StatementProxy.java

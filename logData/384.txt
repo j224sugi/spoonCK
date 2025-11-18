@@ -1,0 +1,5 @@
+a270577dc3617a273bb52fef1f8c8e9648eaeb0f
+C:/Users/syuuj/HikariCP/5c39c0a462e12170be5b9ec1bd3d52f3b3405e41
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/HikariPool.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolBase.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/ProxyLeakTask.java

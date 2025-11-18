@@ -1,0 +1,2 @@
+f0676c8727f6a5e817686addb82f8ecf83b12b2b
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodahaleHealthChecker.java

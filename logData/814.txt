@@ -1,0 +1,5 @@
+ac7268f3c30ab529b601b9d512fa3c806a016151
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/pool/BaseHikariPool.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/util/PoolUtilities.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/pool/HikariPool.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/pool/HikariPool.java

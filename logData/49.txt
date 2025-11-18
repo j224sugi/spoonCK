@@ -1,0 +1,2 @@
+2021f90444604cc67989054b50643502c1006914
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodahaleHealthChecker.java

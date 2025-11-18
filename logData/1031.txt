@@ -1,0 +1,3 @@
+be786966da0f8bae99e8ae61cc6a045c954e9f6c
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/hibernate/HikariConnectionProvider.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/hibernate/HikariConnectionProvider.java

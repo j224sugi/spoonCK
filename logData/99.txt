@@ -1,0 +1,3 @@
+f5b650bb7a700b788553d62668b743a44a5f9f62
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/util/IsolationLevel.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/util/UtilityElf.java

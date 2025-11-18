@@ -1,0 +1,5 @@
+538546e630c2b6fe723259803db98cb42ea4eb0d
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/pool/BaseHikariPool.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/pool/LeakTask.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/proxy/ProxyFactory.java

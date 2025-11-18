@@ -1,0 +1,6 @@
+f4e28160ce86fb4e9ddc417155da18cd038a0826
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/MetricsTracker.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/HikariPool.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/IHikariConnectionProxy.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/ProxyFactory.java

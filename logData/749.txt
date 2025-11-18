@@ -1,0 +1,2 @@
+59bc1662681fcf147c1e710f5d2328f0ef6c7271
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/hibernate/HikariConnectionProvider.java

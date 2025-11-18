@@ -1,0 +1,2 @@
+7b393ac6f19a46e046938ea958ec7c8b4bb3a337
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/proxy/ClosedConnection.java

@@ -1,0 +1,5 @@
+9f3c5ed2ca4d0b000c88a011a810ea9d984cde24
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/ClosedConnection.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/proxy/JavassistProxyFactory.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/proxy/ConnectionProxy.java

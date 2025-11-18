@@ -1,0 +1,4 @@
+6833c25ab64c09f4524733c05b57ad8c635cc329
+C:/Users/syuuj/HikariCP/9804b8602eb422622532507f385606f9f2d54a3f
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/pool/BaseHikariPool.java
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/pool/PoolInitializationException.java

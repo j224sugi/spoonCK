@@ -1,0 +1,2 @@
+d8dbad1ed9b0cd1dc3aa24157ce24163dd87680b
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/hibernate/HikariConfigurationUtil.java

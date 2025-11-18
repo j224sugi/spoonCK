@@ -1,0 +1,3 @@
+15ef1bd290466903fb8b35e8c3415bdd89ada67b
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/ProxyConnection.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/util/JavassistProxyFactory.java

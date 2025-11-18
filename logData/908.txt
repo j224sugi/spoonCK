@@ -1,0 +1,3 @@
+f619fbfb064ecf645ca3397891e42529ce60c50e
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/metrics/CodaHaleShim.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/metrics/CodaHaleShim.java

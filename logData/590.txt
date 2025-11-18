@@ -1,0 +1,4 @@
+18b9f8c1b63c4082ce2709bbf9d222c7150f7820
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/CodaHaleMetricsTracker.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/CodahaleMetricsTrackerFactory.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/MetricsTrackerFactory.java

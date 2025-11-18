@@ -1,0 +1,3 @@
+fd02583e477ed24780f4e26699badf48ae0aab6a
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolBase.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/util/PropertyElf.java

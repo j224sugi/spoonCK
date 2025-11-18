@@ -1,0 +1,6 @@
+298bf85c36f3127a96a0a6a7dee658d45d18fbc6
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/MetricsTracker.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodaHaleMetricsTracker.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/HikariPool.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolBase.java
+C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/pool/PoolEntry.java

@@ -1,0 +1,4 @@
+688d1911e284fd9222b36beaf17b2557e38214cd
+C:/Users/syuuj/HikariCP/hikaricp-common/src/main/java/com/zaxxer/hikari/AbstractHikariConfig.java
+C:/Users/syuuj/HikariCP/hikaricp-java6/src/main/java/com/zaxxer/hikari/HikariConfig.java
+C:/Users/syuuj/HikariCP/hikaricp/src/main/java/com/zaxxer/hikari/HikariConfig.java
